@@ -11,7 +11,7 @@ At the present moment I am a freelancer developer and a full-time NOC Engineer.<
 I love Tech and how creative we can be if used right.
 
 ---
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias que ja usei/uso.
 
 <img 
     align="left" 
